@@ -6,3 +6,6 @@ The GitGubTest learns how to use the Git Commands and manipulation it.
 ## Deployment
 The GitHubTest is can be deployed . 
 ## How To Contribute
+Contributes the project
+
+##END 
