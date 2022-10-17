@@ -8,4 +8,7 @@ The GitHubTest is can be deployed .
 ## How To Contribute
 Contributes the project
 
+##Branches
+Master branch , add-copyright branch
+
 ##END 
