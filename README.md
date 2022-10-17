@@ -9,6 +9,6 @@ The GitHubTest is can be deployed .
 Contributes the project
 
 ##Branches
-Master branch , add-copyright branch
+Master branch ,simple-changes branch and some changes in readme on master . 
 
 ##END 
