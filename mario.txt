@@ -1,4 +1,4 @@
-Adding changes before rebasing conflicts
+Adding changes before rebasing conflicts......
 hey i'm mario  i love you master branch.
 
 hi i'm in myfeature branch please support me .
