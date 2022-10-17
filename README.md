@@ -1,6 +1,6 @@
 # GitHubTest
 ## Introduction
-The GiTHubTest is project shows how to use the Git Commands on terminal. Adding line for eabasing example .
+The GiTHubTest is project shows how to use the Git Commands on terminal. Adding line for eabasing example , then more changes from my feature branch too.
 ## Purpose
 The GitGubTest learns how to use the Git Commands and manipulation it.
 ## Deployment
