@@ -1,4 +1,5 @@
 some silly changes , my name is mario
+hello stash command
 all rights are reserved 2015
 hi i'm in myfeature branch please support me .
 Hello Update file for stashing video
